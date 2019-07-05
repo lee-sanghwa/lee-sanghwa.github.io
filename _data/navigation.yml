@@ -2,7 +2,5 @@
 main:
   - title: "About"
     url: "/about/"
-  - title: "Blog"
-    url: "/categories/#blog/"
-  - title: "Coding-Test"
-    url: "/categories/#coding-test/"
+  - title: "Categories"
+    url: "/categories/"

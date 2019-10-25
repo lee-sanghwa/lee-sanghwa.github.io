@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "미래의 산업기능요원 이상화"
+title                    : "Harmony-With-Each-Other"
 title_separator          : "-"
 name                     : "lee-sanghwa"
-description              : "미래의 산업기능요원 이상화의 website."
+description              : "서로 상, 화목할 화 - blog"
 url                      : "https://lee-sanghwa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lee-sanghwa/lee-sanghwa.github.io"
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "이상화"
+  name             : "LeeSangHwa"
   avatar           : "/assets/images/my_pic.jpeg"
-  bio              : "코딩 테스트 문제 해결 및 개발 블로그"
-  location         : "경기 용인"
+  bio              : "Blog about how did I solve coding question and what I face problem in developing"
+  location         : "Yong-In-Si"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: "developerjosephlee97@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/lee-sanghwa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/lee-sanghwa"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

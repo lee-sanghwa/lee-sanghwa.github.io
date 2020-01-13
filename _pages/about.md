@@ -18,8 +18,9 @@ author_profile: true
 
 
 # - 개인, 팀단위로 진행한 프로젝트
-## 1. [먼지알랴줌](https://apps.apple.com/us/app/%EB%A8%BC%EC%A7%80%EC%95%8C%EB%9E%B4%EC%A4%8C/id1470952112)
+## 1. [먼지알랴줌](https://apps.apple.com/us/app/%EB%A8%BC%EC%A7%80%EC%95%8C%EB%9E%B4%EC%A4%8C/id1470952112) <- AppStore 링크
 [![](/assets/images/munji-alarm-logo.jpg){:width="20%"}](https://apps.apple.com/us/app/%EB%A8%BC%EC%A7%80%EC%95%8C%EB%9E%B4%EC%A4%8C/id1470952112)  
+
 2인 -> 3인 프로젝트  
 
 2019-02-23 -> 2019-08-11 (version1) : 약 6개월
@@ -29,9 +30,8 @@ author_profile: true
 [GitHub](https://github.com/lee-sanghwa/OnOffDust) - It is private :-)
 <hr>
 - 기존의 미세먼지 앱과 다르게 앱을 실행하지않고  
-미세먼지 정보를 전달받을 수 있는 앱입니다.
-
-![](/assets/images/munji-alarm-detail.png){:width="45%"} ![](/assets/images/munji-alarm-alarm.png){:width="45%"}
+미세먼지 정보를 전달받을 수 있는 앱입니다.  
+    ![](/assets/images/munji-alarm-detail.png){:width="40%"} ![](/assets/images/munji-alarm-alarm.png){:width="40%"}
 <hr>
 - 맡은 역할
     1. Cloud Service를 통한 서버 개발환경 구축 (Google)
@@ -55,14 +55,13 @@ author_profile: true
 ![](/assets/images/hoxynado-logo.png){:width="20%"}
 
 3인 프로젝트  
-2019-07-22 -> 2019-10-24 : 약 4개
+2019-07-22 -> 2019-10-24 : 약 4개월
 <br><br>
 [GitHub](https://github.com/lee-sanghwa/hoxymetoo)
 <br><br>
 <hr>
 - 사용자가 수혜가능한 복지정보를 보여주는 앱입니다.
-
-<iframe src="https://www.youtube.com/embed/ZLpTKLmQIpU" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/ZLpTKLmQIpU" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 - 맡은 역할
@@ -85,20 +84,25 @@ author_profile: true
 ---
 
 ## 3. openCV를 활용한 프로젝트
-![](/assets/images/face2monkey.png)
+![](/assets/images/opencv.png){:width="20%"}
 
 1인 프로젝트  
 2019-12-06 -> 2019-12-12 : 약 6일
 <br><br>
 <hr>
 - 사람의 얼굴을 원숭이의 얼굴로 바꾸는 프로젝트입니다.
+    ![](/assets/images/face2monkey.jpg)
+
 <hr>
 - 주요 기술
     1. Python Dlib 라이브러리의 face landmark
     - 얼굴 인식에 이용
     2. 들로네 삼각분할
     - 사람의 얼굴을 원숭이의 얼굴로 바꿀 때 보다 자연스럽게 하기 위함.
-
+<br><br>
+    
+---
+---
         
 <br><br>
 - 자격증 및 수상경력

@@ -56,7 +56,7 @@ author_profile: true
 ---
 ---
 
-## 2. 혹시나도
+## 2. [혹시나도](https://play.google.com/store/apps/details?id=com.welfarern) <- PlayStore 링크
 
 ![](/assets/images/hoxynado-logo.png){:width="20%"}
 

@@ -153,25 +153,25 @@ summary {
 @font-face {
     font-family: Spoqa Han Sans;
     font-weight: 700;
-    src: local("Spoqa Han Sans Bold"), url(SpoqaHanSansBold.26ca39fe.woff2) format("woff2"), url(SpoqaHanSansBold.719cd855.woff) format("woff"), url(SpoqaHanSansBold.84a16e17.ttf) format("truetype")
+    src: local("Spoqa Han Sans Bold"), url(SpoqaHanSansBold.26ca39fe.woff2) format("woff2")
 }
 
 @font-face {
     font-family: Spoqa Han Sans;
     font-weight: 400;
-    src: local("Spoqa Han Sans Regular"), url(SpoqaHanSansRegular.e3425242.woff2) format("woff2"), url(SpoqaHanSansRegular.89c9a0ef.woff) format("woff"), url(SpoqaHanSansRegular.49d1db7a.ttf) format("truetype")
+    src: local("Spoqa Han Sans Regular"), url(SpoqaHanSansRegular.e3425242.woff2) format("woff2")
 }
 
 @font-face {
     font-family: Spoqa Han Sans;
     font-weight: 300;
-    src: local("Spoqa Han Sans Light"), url(SpoqaHanSansLight.d1600ac3.woff2) format("woff2"), url(SpoqaHanSansLight.d1455ddf.woff) format("woff"), url(SpoqaHanSansLight.d7137211.ttf) format("truetype")
+    src: local("Spoqa Han Sans Light")
 }
 
 @font-face {
     font-family: Spoqa Han Sans;
     font-weight: 100;
-    src: local("Spoqa Han Sans Thin"), url(SpoqaHanSansThin.e4533171.woff2) format("woff2"), url(SpoqaHanSansThin.66fd60cb.woff) format("woff"), url(SpoqaHanSansThin.2a8662e2.ttf) format("truetype")
+    src: local("Spoqa Han Sans Thin")
 }
 
 * {
@@ -345,7 +345,7 @@ ul > li:before {
 
     .row-left {
         -ms-flex-preferred-size: 100%;
-        flex-basis: 100%;
+        flex-basis: 0;
         padding-right: 0;
         padding-bottom: 1rem
     }

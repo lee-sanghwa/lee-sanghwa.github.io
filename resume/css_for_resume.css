@@ -372,3 +372,7 @@ ul > li:before {
     display: block;
     margin-bottom: 1.5rem
 }
+
+.contact {
+    border-bottom: 1px solid #eee
+}
